@@ -8,6 +8,7 @@ Online Resources:
 * PDB (Protein Data Bank): https://www.rcsb.org/pdb/home/home.do
 * Uniprot: https://www.uniprot.org/ 
 * Binding Database: https://www.bindingdb.org/bind/index.jsp 
+* DrugBank: https://www.drugbank.ca 
 * CADD Tools: https://www.click2drug.org/ 
 * http://geneontology.org/ 
 
