@@ -1,3 +1,6 @@
+# Input: File containing DNA sequence 
+# Output: Printing to console corresponding RNA sequence 
+
 from sys import argv as argument
 
 if(len(argument) != 2):
