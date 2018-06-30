@@ -1,14 +1,12 @@
-# CompBio
-Computational Biology Scripts
+# Computational Biology (Related) Scripts
 
-Online resources and tools for computational biology can be difficult to find. So, I have curated a list of ones that I like....
+This repository contains scripts that I write that somehow relate to computational biology. I hope to create a larger program in the future that will aggregate similar scripts (e.g. for DNA sequences) so that numerous operations can be executed using one file input. 
 
-Online Resources: 
+## Useful Online Resources: 
 * NCBI: https://www.ncbi.nlm.nih.gov/
 * PDB (Protein Data Bank): https://www.rcsb.org/pdb/home/home.do
 * Uniprot: https://www.uniprot.org/ 
 * Binding Database: https://www.bindingdb.org/bind/index.jsp 
 * DrugBank: https://www.drugbank.ca 
-* CADD Tools: https://www.click2drug.org/ 
 * http://geneontology.org/ 
 
