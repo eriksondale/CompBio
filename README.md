@@ -5,6 +5,7 @@ This repository contains scripts that I write that somehow relate to computation
 ## Useful Online Resources: 
 * NCBI: https://www.ncbi.nlm.nih.gov/
 * PDB (Protein Data Bank): https://www.rcsb.org/pdb/home/home.do
+* PubChem: https://pubchem.ncbi.nlm.nih.gov 
 * Uniprot: https://www.uniprot.org/ 
 * Binding Database: https://www.bindingdb.org/bind/index.jsp 
 * DrugBank: https://www.drugbank.ca 
